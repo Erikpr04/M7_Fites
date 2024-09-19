@@ -1,4 +1,4 @@
-<!--exercic1!-->
+<!--exercici1!-->
 
 <!DOCTYPE html>
 <html>
